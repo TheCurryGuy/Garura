@@ -123,7 +123,7 @@ npm run dev
 ```
 
 ## Team
-This project was proudly built by **Team ALTF4** for the **Hack4Bengal 4.0** hackathon.
+This project was proudly built by **Team TheBotHeads** for the **Hack4Bengal 4.0** hackathon.
 
 - Ishika
 - Ayushi
